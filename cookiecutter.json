@@ -1,0 +1,7 @@
+{
+"service_name":"Enter the name for the service/repo",
+"schema_name":"Enter the name for the database schema",
+"author_name":"Enter the name of author",
+"start_date":"Feb/01/2019",
+"description":"Enter description for the project"
+}

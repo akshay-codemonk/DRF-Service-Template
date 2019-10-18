@@ -1,0 +1,9 @@
+[settings]
+DEBUG=True
+SECRET_KEY=
+DB_NAME=
+USER_NAME=
+PASSWORD=
+SCHEMA_NAME={{cookiecutter.schema_name}}
+HOST=
+PORT=

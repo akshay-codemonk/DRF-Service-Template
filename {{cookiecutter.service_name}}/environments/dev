@@ -1,0 +1,10 @@
+[settings]
+DEBUG=True
+SECRET_KEY=g_r09#_(ao%$0k$-$%@9m&(vrjfb16j@19n-*)2@z9q%ut89&j
+DB_NAME=spectra
+USER_NAME=postgres
+PASSWORD=
+HOST=db
+PORT=5432
+SCHEMA_NAME={{cookiecutter.schema_name}}
+ALLOWED_HOSTS=0.0.0.0,127.0.0.1
