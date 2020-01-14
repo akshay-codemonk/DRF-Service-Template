@@ -1,6 +1,6 @@
-# Cookiecutter Template for Django Rest Framework service
+# Cookiecutter Template for Django Rest Framework microservice
 
-_A Django project template for creating new service._
+_A Django project template for creating new microservice._
 
 
 ### Requirements to use the cookiecutter template:
