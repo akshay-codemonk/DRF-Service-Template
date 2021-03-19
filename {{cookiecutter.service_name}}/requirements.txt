@@ -5,7 +5,7 @@ Django==2.2.8
 django-cors-headers==2.4.0
 django-leaflet==0.24.0
 django-simple-history==2.7.0
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 djangorestframework-gis==0.14
 docker==3.7.0
 docker-compose==1.24.1
